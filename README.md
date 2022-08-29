@@ -21,7 +21,7 @@ Let's say Bob wants to buy Land from Alice.
 10. And now Bob is the rightful owner of the Land.
 
 ## Repositories
-The application is divide into the following repositiories
+The application is divided into the following repositiories:
 1. Sahihi - digital signature tool for browsing the blockchain and verify digital signatures.
 2. Karani Frontend - acts as a portal between users and the blockchain
 3. Karani Backend - used for basic authentication, validation and block proposals. This is the backed to Karani Frontend 
